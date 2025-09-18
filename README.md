@@ -30,4 +30,4 @@ Entity Framework Core
 
 SQL Server
 
-Swagger (para documentação e testes da API)
+Swagger (para documentação e testes da API).
